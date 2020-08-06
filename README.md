@@ -1,3 +1,3 @@
 # Project-Arduino
 Get sensor value
-for smart bag
+for smart backpack
